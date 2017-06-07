@@ -1,2 +1,3 @@
-# gps
-Repositório de arquivos que será usado para o desenvolvimento do Sistema para agendamento de defesas de TCC.
+# Sistema para agendamento de defesas de TCC
+
+Esse é o arquivo readme.md, onde ficarão definidas particularidades da codificação do projeto, como fazer para clonar o projeto, quais dependências, etc...
