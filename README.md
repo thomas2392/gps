@@ -13,5 +13,6 @@ Segue abaixo o link para acesso ao Canvas direto pela plataforma.
 
 Caso não seja possível visualizar através do link acima segue abaixo links para o formato PDF.
 
-[ProjecCanvas - versão 1](Project_Canvas_v1.pdf)
-[ProjecCanvas - versão 2](Project_Canvas_v2.pdf)
+[ProjectCanvas - versão 1](Project_Canvas_v1.pdf)
+
+[ProjectCanvas - versão 2](Project_Canvas_v2.pdf)
