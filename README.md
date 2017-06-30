@@ -2,17 +2,6 @@
 
 Esse é o arquivo readme.md, onde ficarão definidas particularidades da codificação do projeto, como fazer para clonar o projeto, quais dependências, etc...
 
-## Project Canvas Online
+## Planos de Gerênciamento
 
-Nesse projeto estamos utilizando o Canvas como o "Termo de Abertura do Projeto(TAP)". Ele contém uma visão geral do sistema a ser desenvolvido.
-
-
-Segue abaixo o link para acesso ao Canvas direto pela plataforma.
-
-[ProjectCanvas.Online](http://app.projectcanvas.online/#/board/X53Xv1ELBX562MSCksgRVL5dDHDAmUF91X093qaK44=/public)
-
-Caso não seja possível visualizar através do link acima segue abaixo links para o formato PDF.
-
-[ProjectCanvas - versão 1](Project_Canvas_v1.pdf)
-
-[ProjectCanvas - versão 2](Project_Canvas_v2.pdf)
+Todos os documentos de gestão do processo de desenvolvimento do software se encontram no [**Wiki**](https://github.com/IFPB-2017-1/gps/wiki) do repositório separados por planos.
